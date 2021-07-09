@@ -31,9 +31,11 @@ Our site features an alert system which, when activated, sends an alert to the p
  
 
 //Making an account as a health professional (hospital user)
+
 Here, we refer to health professionals or hospital users as the people who have hospital id. These hospital ids, much like the donor id, should be first input into the 'hospital_id_check' table of the database. Only the health personnels who are tasked with giving updates regarding the hospitals they work for and who have hospital id can make account as health personnels (hospital users)
 
  
 
 //Perks of having a health personnel(hospital user) account.
+
 The alert system can be accessed by hospital users in the same way. In addition to that, they can also provide inputs regarding the number of beds (available_beds), blood bank information (blood_bank) and doctors' appointment schedule (doctor_appointment) of the hospital that they work for

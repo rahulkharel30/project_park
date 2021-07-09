@@ -36,19 +36,19 @@
         <div class = "collapse navbar-collapse" id = "myNavbar">
             <ul class = "navbar-nav realNav">
                 <li class = "nav-item">
-                    <a class = "nav-link" href = "index1.php">Home</a>
+                    <a class = "nav-link" href = "../index.html">Home</a>
                 </li>
                 <li class = "nav-item">
-                    <a class = "nav-link" href = "users1.php">Blood Donors</a>
+                    <a class = "nav-link" href = "users.php">Blood Donors</a>
                 </li>
                 <li class = "nav-item">
-                    <a class = "nav-link" href = "blood_bank_1.php"> Blood Bank</a>
+                    <a class = "nav-link" href = "blood_bank.php"> Blood Bank</a>
                 </li>
                 <li class = "nav-item">
-                    <a class = "nav-link" href = "doctor_appointment_1.php"> Doctor's Appointment</a>
+                    <a class = "nav-link" href = "doctor_appointment.php"> Doctor's Appointment</a>
                 </li>
                 <li class = "nav-item">
-                    <a class = "nav-link" href = "available_beds_1.php"> Available Beds</a>
+                    <a class = "nav-link" href = "available_beds.php"> Available Beds</a>
                 </li>
                 <li class = "nav-item">
                     <a class = "nav-link" href = "forms/users_login.php"> Login</a>
